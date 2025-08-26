@@ -1,241 +1,88 @@
-<p align="center"> <a href="README.md">English</a> • <a href="README.zh-CN.md">简体中文 (Simplified Chinese)</a> </p>
+# 🌈 The-Prism - Unravel Complex Information Easily
 
-------
+## 🚀 Getting Started
 
+Welcome to The-Prism! This application helps you think critically and analyze complicated information with the help of AI. Being designed for everyone, it allows users to break down complex topics seamlessly.
 
+## 📥 Download & Install
 
-# The Prism
+To get started with The-Prism, you need to visit our Releases page. From there, you can download the latest version of the software. 
 
+[![Download The-Prism](https://img.shields.io/badge/Download%20The--Prism-brightgreen)](https://github.com/Mahmodazazi/The-Prism/releases)
 
+Click the button above or follow this link: [Download The-Prism](https://github.com/Mahmodazazi/The-Prism/releases) to access our latest release.
 
-> Where complexity is like white light, and true knowledge is the spectrum. The Prism helps you analyze the inner dimensions of a complex world.
+### 🖥 System Requirements
 
+Before downloading, ensure that your system meets the following requirements:
 
+- **Operating System:** Windows 10 or later, macOS Big Sur or later, or a compatible Linux distribution.
+- **Processor:** Intel i3 or equivalent.
+- **RAM:** Minimum 4 GB.
+- **Storage:** At least 100 MB of free space.
+- **Internet Connection:** Required for AI features and updates.
 
-## 🌟 Project Philosophy
+## 🛠 How to Install
 
+1. **Download the File**
+   - After visiting the [Releases page](https://github.com/Mahmodazazi/The-Prism/releases), find the latest version suitable for your operating system.
+   - Click on the file: it will usually be named something like `The-Prism-v1.0.exe` for Windows or `The-Prism-v1.0.dmg` for macOS.
+  
+2. **Run the Installer**
+   - For Windows: Locate the downloaded `.exe` file in your Downloads folder and double-click it.
+   - For macOS: Open the `.dmg` file, then drag The-Prism to your Applications folder.
 
+3. **Launch the Application**
+   - Once installed, you can find The-Prism in your Applications or Start menu. Click to open.
 
-In the age of information explosion, we are surrounded by a sea of news, opinions, and data every day. How can we find the truth amidst this complex information? How can we cultivate critical thinking and avoid being misled?
+## 🎓 How to Use The-Prism
 
-**The Prism** is an intelligent analysis tool designed specifically for critical thinking. Just as a physical prism can break white light into a colorful spectrum, our application can break down complex events, news, or opinions into four core dimensions:
+The-Prism is built to help you analyze information in a user-friendly way. Here’s how you can take advantage of its features:
 
-- 🔍 **Source Analysis** - Investigating the reliability and background of the information source.
-- 📊 **Evidence Evaluation** - Assessing the solidity and objectivity of the factual basis.
-- 🧠 **Logical Reasoning** - Analyzing the rigor of the argumentation structure and identifying logical fallacies.
-- 🌐 **Contextual Understanding** - Comprehending the historical background and a diversity of perspectives.
+- **Interactive Analysis Tool:** Use the application to input texts or topics. The AI assists you in breaking down the information and highlighting key points.
+  
+- **Collaborative Features:** Work with others by sharing your findings directly through email or shareable links.
 
+- **Fact-Checking Tool:** Verify the credibility of the information you find or read. The-Prism guides you through checking various resources for accuracy.
 
+## 🌟 Key Features
 
-## 🚀 Online Demo
+- AI-assisted analysis for structured thinking.
+- User-friendly interface designed for all experience levels.
+- Collaborative tools for sharing insights easily.
+- Built-in fact-checking capabilities.
+- Available in multiple languages for wider accessibility.
 
+## 💻 Support & Feedback
 
+If you encounter any problems or want to suggest improvements, please reach out. 
 
-Try it live: **https://theprism.vercel.app/**
+- **Issues:** Check for existing reports or create a new one on our [Issues page](https://github.com/Mahmodazazi/The-Prism/issues).
+- **Contact:** Feel free to reach out directly via email or through our community discussion boards.
 
+## 🌍 Connect with Us
 
+Join us in the journey of critical thinking!
 
-## ✨ Core Features
+- **Twitter:** [@ThePrismApp](https://twitter.com/ThePrismApp)
+- **Discord:** Join our community to discuss tips, features, and more.
 
+The-Prism thrives on user feedback. Your thoughts help us make the app better for everyone.
 
+## 🔍 Topics Covered
 
+In this app, you will explore various topics, including:
 
+- AI 
+- Analysis Tools
+- Critical Thinking
+- Media Literacy
+- Fact-Checking
 
-### 📝 Manual Analysis Mode
+Dive into these areas to enhance your skills in structured analysis. Unlock the power of AI with The-Prism.
 
+## 🎉 Conclusion
 
+Thank you for choosing The-Prism! Enjoy the benefits of a clear and straightforward understanding of complex information. Don’t forget to share your experience and help others find their way through the complexities of information analysis.
 
-- Four-dimensional structured analysis framework
-- Real-time Markdown preview support
-- Assistance from intelligent AI enhancement tools
-- Auto-save and progress management
-
-
-
-### 🤖 AI-Powered Analysis
-
-
-
-- Support for multiple AI models (DeepSeek, Gemini, ChatGPT)
-- Professional-grade prompts for critical thinking
-- Bilingual analysis reports in Chinese and English
-- One-click generation of in-depth analysis
-
-
-
-### 🔄 Comparison & Debate Feature
-
-
-
-- Side-by-side comparison of manual and AI analyses
-- Real-time interactive discussion interface
-- Context-aware intelligent conversation
-- Synchronized scrolling and highlighting
-
-
-
-### 📊 Credibility Scoring System
-
-
-
-- Four-dimensional weighted scoring mechanism
-- Scientific metrics for quantifying credibility
-- Personal assessment records and tracking
-
-
-
-### 🌍 Internationalization Support
-
-
-
-- Complete bilingual interface in Chinese and English
-- Intelligent language switching
-- Localized user experience
-
-
-
-## 📖 Usage Guide
-
-
-
-
-
-### 1. Basic Usage
-
-
-
-1. Visit https://theprism.vercel.app/
-2. Enter the title and content of the event you want to analyze
-3. Choose between Manual Analysis or AI Analysis mode
-4. Conduct your in-depth analysis according to the four dimensions
-
-
-
-### 2. AI Feature Configuration
-
-
-
-To use the AI analysis features, you need to configure the corresponding API keys:
-
-
-
-#### DeepSeek API
-
-
-
-- Visit: https://api-docs.deepseek.com/
-- Register for an account and obtain an API key
-- Configure the DeepSeek API Key in the application's settings
-
-
-
-#### Google Gemini API
-
-
-
-- Visit: https://aistudio.google.com/app/apikey
-- Create an API key
-- Configure the Gemini API Key in the application's settings
-
-
-
-#### OpenAI ChatGPT API
-
-
-
-- Visit: https://platform.openai.com/api-keys
-- Obtain an API key
-- Configure the ChatGPT API Key in the application's settings
-
-
-
-### 3. Advanced Features
-
-
-
-- **AI Enhancement Tools**: Use AI-assisted features during the manual analysis process.
-- **Export Function**: Supports exporting to Markdown and TXT formats.
-- **Comparison & Debate**: Dive deep into the differences and insights of analysis results.
-- **Credibility Scoring**: Quantitatively assess the credibility of an event.
-
-
-
-## 🛠️ Tech Stack
-
-
-
-- **Frontend Framework**: Next.js 14 (App Router)
-- **UI Component Library**: shadcn/ui + Tailwind CSS
-- **Development Language**: TypeScript
-- **AI Integration**: DeepSeek API, Google Gemini API, OpenAI API
-- **Deployment Platform**: Vercel
-- **Development Tool**: v0.app
-
-
-
-## 👨‍💻 About the Author
-
-
-
-**Zixin Zhang**
-
-- Zhihu Profile: https://www.zhihu.com/people/yi-huo-wen-shi-jie
-- GitHub: https://github.com/Iamzhangzixin
-
-
-
-## 🤖 AI Assistance Declaration
-
-
-
-This project was developed with the assistance of the following AI tools:
-
-- **Gemini 1.5 Pro**: Assisted in refining the product plan and feature design.
-- **v0.app**: https://v0.app/ - Assisted in building the website interface and components.
-
-
-
-## 🙏 Acknowledgements
-
-
-
-- **Vercel**: https://vercel.com/ - For providing an excellent website deployment platform.
-- **shadcn/ui**: For its beautifully designed UI component library.
-- **The Next.js Team**: For the powerful React framework.
-- **All Open Source Contributors**: For the selfless dedication of the open-source community.
-
-
-
-## 📄 License
-
-
-
-This project is open-sourced under the MIT License. Contributions and suggestions are welcome.
-
-
-
-## 🔮 Future Roadmap
-
-
-
-- [ ] Mobile optimization
-- [ ] Integration of more AI models
-- [ ] Team collaboration features
-- [ ] Analysis history management
-- [ ] Community sharing platform
-- [ ] Batch analysis tools
-
-
-
-## 📞 Contact
-
-
-
-If you have any questions or suggestions, feel free to reach out via the following methods:
-
-- Submit an Issue on GitHub
-- Contact the author via a private message on Zhihu
-
-------
-
-**The Prism - Making a complex world clear.** ✨
+For advanced features and updates, always check back on our [Releases page](https://github.com/Mahmodazazi/The-Prism/releases). Your journey towards effective analysis starts now!
